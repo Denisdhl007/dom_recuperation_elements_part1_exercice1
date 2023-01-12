@@ -31,6 +31,3 @@ console.log(p_1);
 
 let li = document.getElementsByTagName("li");
 console.log(li[2]);
-
-
-Thanks
